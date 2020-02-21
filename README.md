@@ -4,6 +4,6 @@
 
 #npm start
 
-![test image size](Screenshot.jpg){:height="700px" width="400px"}
+![](Screenshot.jpg?v=4&s=200)
 
 ![Image description](Screenshot.jpg)
