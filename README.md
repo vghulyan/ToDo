@@ -4,4 +4,6 @@
 
 #npm start
 
+![](Screenshot.jpg | width=100)
+
 ![Image description](Screenshot.jpg)
